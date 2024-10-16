@@ -1,3 +1,7 @@
+# Web Scraper
+
+A Python-based web scraper designed to efficiently extract data from specified web pages and store it in a MongoDB database. This project demonstrates how to set up the environment, run the scraper, and manage data.
+
 # MongoDB Manager
 
 A Python module for managing MongoDB databases and collections efficiently. This module allows for the creation of databases and collections (if they do not already exist) and provides methods to append new documents seamlessly.
